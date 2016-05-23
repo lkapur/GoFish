@@ -1,7 +1,7 @@
 /* 
 	|Main|
 	Assignment 2
-	By: Luv Kapur and Theo Dule
+	By: Luv Kapur
 	main.cpp
 */
 #include <iostream>
